@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Kevin Martin Edrosa</h1>
+<h1 align="center">Hola 👋, Me llamo Kevin </h1>
 <h3 align="center">Llevo varios años estudiando programación orientada a videojuegos.</h3>
 
 - 🔭 Actualmente estoy trabajando en **mi primer juego**
